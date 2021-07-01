@@ -15,3 +15,7 @@
 ## Deploy Chain-code
 
     ./deployChaincode.sh
+    
+## extract the below mentioned prometheus file
+
+     prometheus.7z.001 
