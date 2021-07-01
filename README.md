@@ -16,6 +16,6 @@
 
     ./deployChaincode.sh
     
-## extract the below mentioned prometheus file
+## Extract the below mentioned prometheus file for metrics and healthz of nodes in the network
 
      prometheus.7z.001 
