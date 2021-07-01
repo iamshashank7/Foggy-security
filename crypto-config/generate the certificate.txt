@@ -1,0 +1,1 @@
+kindly generate the materials for the orderer and peer organization, using create-artifacts.sh. so you can use it for future use.
